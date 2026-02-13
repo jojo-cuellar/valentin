@@ -8,7 +8,7 @@ const messages = [
     "Estaré muy triste...",
     "Estaré muy, pero que muy triste...",
     "Bueno, ya dejo de preguntar...",
-    "Es broma, ¡dime que sí, yaaa po favo! ❤️"
+    "Es broma, ¡dime que sí, yaaa por favooooorrr!! ❤️"
 ];
 
 let messageIndex = 0;
